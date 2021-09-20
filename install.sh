@@ -19,3 +19,4 @@ brew install --cask signal ;
 brew install --cask vlc ;
 brew install --cask vmware-fusion ;
 brew install --cask vscodium ;
+brew install --cask notion ;
